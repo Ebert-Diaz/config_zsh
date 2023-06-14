@@ -5,11 +5,11 @@ configuracion para de terminal con zsh
 copiar la carpeta zsh al directorio 
 	/usr/share/
 
-copiar el contenido de la carpeta "raiz" en 
-	/home/tuUsuario/
-
 Instalar programas 
 
 1.- sudo apt install zsh
 
 2.- curl -sS https://starship.rs/install.sh | sh
+
+copiar el contenido de la carpeta "raiz" en 
+	/home/tuUsuario/

@@ -1,7 +1,7 @@
 # config_zsh
 configuracion para de terminal con zsh
 
-##Pasos a seguir
+## Pasos a seguir
 copiar la carpeta zsh al directorio 
 	/usr/share/
 
